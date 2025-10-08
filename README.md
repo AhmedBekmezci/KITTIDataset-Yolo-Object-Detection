@@ -18,11 +18,11 @@ This project implements a YOLO (You Only Look Once) object detection model for d
 ├── all_data_test.py         # Full dataset evaluation and top-10 selection
 ├── result.png               # Final model performance results
 └── images/                  # Example output visualizations
-    ├── Figure_1.png         # Example: Class-based evaluation metrics
-    ├── Figure_2.png         # Example: Top 10 predictions summary
-    ├── Figure_3.png         # Example: Individual prediction results
-    ├── Figure_4.png         # Example: Performance analysis
-    └── Figure_5.png         # Example: Additional visualizations
+    ├── Figure_1.png         
+    ├── Figure_2.png         
+    ├── Figure_3.png         
+    ├── Figure_4.png         
+    └── Figure_5.png         
 ```
 
 ### 🚀 Getting Started
@@ -169,11 +169,11 @@ Bu proje, KITTI veri seti kullanılarak araç ve yaya tespiti yapmak için YOLO 
 ├── all_data_test.py         # Tam veri seti değerlendirmesi ve en iyi 10 seçimi
 ├── result.png               # Final model performans sonuçları
 └── images/                  # Örnek çıktı görselleri
-    ├── Figure_1.png         # Örnek: Sınıf bazlı değerlendirme metrikleri
-    ├── Figure_2.png         # Örnek: En iyi 10 tahmin özeti
-    ├── Figure_3.png         # Örnek: Tekil tahmin sonuçları
-    ├── Figure_4.png         # Örnek: Performans analizi
-    └── Figure_5.png         # Örnek: Ek görselleştirmeler
+    ├── Figure_1.png         
+    ├── Figure_2.png         
+    ├── Figure_3.png         
+    ├── Figure_4.png         
+    └── Figure_5.png         
 ```
 
 ### 🚀 Başlangıç
